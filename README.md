@@ -1,1 +1,2 @@
-# blog
+## [日常点滴](haihome.top/blog)
+blog
