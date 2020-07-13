@@ -37,7 +37,7 @@ $$
 
 这个图是从参考的文章里直接拿来的，需要自己画个更好。
 <div align="center">
-<img src="{{site.url}}/images/GRUComputeGraph.jpg" width="300px">
+<img src="images/GRUComputeGraph.jpg" width="300px">
 </div>
 
 因为GRU中核心的要求的参数除$$\frac{\partial L_t}{\partial W_y}$$外,就是$$\frac{\partial L_t}{\partial W_z}$$,

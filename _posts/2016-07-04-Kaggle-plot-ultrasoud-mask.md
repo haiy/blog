@@ -11,11 +11,11 @@ layout: post
 合并到原始的超声波图片上。
 原始的图片如下：
 
-<img src="{{site.url}}/images/1_1.png"  height="200px" width="200px">
+<img src="images/1_1.png"  height="200px" width="200px">
 
 轮廓mask:
 
-<img src="{{site.url}}/images/1_1_mask.png"  height="200px" width="200px">
+<img src="images/1_1_mask.png"  height="200px" width="200px">
 
 
 
@@ -37,7 +37,7 @@ plt.show()
 ```
 合并后的结果如下：
 
-<img src="{{site.url}}/images/1_1_mask_combined.png"  height="300px" width="300px">
+<img src="images/1_1_mask_combined.png"  height="300px" width="300px">
 
 
 tips: tif文件灰度存为png灰度 

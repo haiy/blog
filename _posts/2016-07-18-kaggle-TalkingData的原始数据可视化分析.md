@@ -47,7 +47,7 @@ plt.pie(size, explode=explode, labels=labels,autopct='%1.1f%%')
 plt.axis('equal')
 plt.show()
 ```
-<img src="{{site.url}}/images/kaggle/talking_data/figure_1.png"  height="300px" width="400px">
+<img src="images/kaggle/talking_data/figure_1.png"  height="300px" width="400px">
 
 - 2.1 男女年龄分级分布对比
 
@@ -69,7 +69,7 @@ ax.legend((rects1[0], rects2[0]), ('Men', 'Women'))
 plt.show()
 ```
 
-<img src="{{site.url}}/images/kaggle/talking_data/figure_2.png"  height="300px" width="400px">
+<img src="images/kaggle/talking_data/figure_2.png"  height="300px" width="400px">
 
 - 2.2 数据长什么样子
 

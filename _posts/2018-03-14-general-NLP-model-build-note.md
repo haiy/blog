@@ -89,7 +89,7 @@ y_predicted_word2vec = clf_w2v.predict(X_test_word2vec)
 采用word2vec将词和词之间的语义关系表示成一个300维的向量，
 对一段文本来说，将其中包含的词的词向量做均值得到该段文本的表示。
 
-￼<img src="{{site.url}}/images/general_nlp/lookup_table.png"  height="200px" >
+￼<img src="images/general_nlp/lookup_table.png"  height="200px" >
 
 
 The Complexity/Explainability trade-off
@@ -99,7 +99,7 @@ The Complexity/Explainability trade-off
 
 先将词转为词向量然后每个短文本作为一个完整的二维数据来进行处理。然后在此基础上用CNN来进行建模。
 
-￼￼<img src="{{site.url}}/images/general_nlp/arch.jpg"  height="230px">
+￼￼<img src="images/general_nlp/arch.jpg"  height="230px">
 
 # Final Notes
 
