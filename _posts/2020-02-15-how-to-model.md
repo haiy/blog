@@ -1,6 +1,5 @@
 ---
 title: 关于模型优化的几个思考-如何做模型调优
-layout: post
 ---
 
 ## {{page.title}}
